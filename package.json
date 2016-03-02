@@ -1,0 +1,13 @@
+{
+  "name": "dspjs",
+  "author": "Corban Brook",
+  "version": "1.0.0",
+  "description": "DSP.js is a comprehensive digital signal processing library for javascript",
+  "license": "MIT",
+  "main": "dsp.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaptenJansson/dsp.js.git"
+  },
+  "devDependencies": {}
+}
